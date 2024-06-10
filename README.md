@@ -1,2 +1,3 @@
-# landing-page
-My rendition of The Odin Projects "Landing Page" project
+CrabSully's Landing Page project!
+
+This project's aim is to apply The Odin Project's flexbox lessons into a project.
